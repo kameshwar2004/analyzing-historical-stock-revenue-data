@@ -52,7 +52,3 @@ The output file will contain columns such as:
     Quarter (if quarterly data)
     Revenue
     Timestamp (date and time of data extraction)
-
-## License
-
-This project is licensed under the MIT License.
